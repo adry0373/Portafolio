@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+
+}
+h1{
+    font-size: 40px;
+    font-family: monospace;
+
+}
+#games{
+    background-color: blueviolet;
+}
+
+.line{
+    background-color: black;
+    width: 70px;
+    height: 8px;
+    margin: 8px auto;
+}
